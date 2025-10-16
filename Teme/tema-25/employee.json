@@ -1,0 +1,20 @@
+[
+    {
+        "first_name": "Bogdan",
+        "last_name": "Alexandrescu",
+        "age": 27,
+        "position": "Manager"
+    },
+    {
+        "first_name": "Maria",
+        "last_name": "Iliescu",
+        "age": 30,
+        "position": "Decor"
+    },
+    {
+        "first_name": "Alex",
+        "last_name": "Dogaru",
+        "age": 26,
+        "position": "Planing"
+    }
+]
