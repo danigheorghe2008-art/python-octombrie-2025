@@ -1,0 +1,2 @@
+Python is a amazing programming language.
+File handling in Python is simple 
